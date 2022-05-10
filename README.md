@@ -25,16 +25,19 @@ https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-
 My expected graduation date is May 2023.  
 
 # Prior Work Experience
+## Brandeis
 I worked at Brandeis University as part of the AJPP from April 2019 to September 2021 
 as a Data Scientist/Analyst.  More information about that project can be found here:
 https://ajpp.brandeis.edu/
 
 In short, it is an ongoing project that seeks to give accurate, Census-like estimates
 yearly or every other year for the Jewish community across the entire United States.  
+
 Its purpose is to show that the Jewish community is alive and thriving in the US and 
 to show community leaders where they can and should focus efforts to drive better 
 outreach and engagement.  
 
+## Luminoso Technologies
 Before Brandeis, during my undergraduate degree from August 2017 to December 2017
 I worked part-time/contractually for Luminoso Technologies.  Their link can be
 found here:  https://www.luminoso.com/
