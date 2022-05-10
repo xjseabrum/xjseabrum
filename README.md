@@ -11,6 +11,21 @@ please contact me at:
 
 seabrum.x {{at}} gmail {{dot}} com
 
+# Interests
+Currently I am most interested in how ML and AI can approach linguistic problems.  As such, 
+I am 
+
+# Prior Experience
+I worked at Brandeis University as part of the AJPP from April 2019 to September 2021 
+as a Data Scientist/Analyst.  More information about that project can be found here:
+https://ajpp.brandeis.edu/
+
+In short, it is an ongoing project that seeks to give accurate, Census-like estimates
+for the Jewish community across the entire United States.  Its purpose is to show that 
+the Jewish community is alive and thriving in the US and to show community leaders where
+they can and should focus efforts to drive better outreach and engagement.
+
+
 # Links and Navigation
 Repo link to showcasing Object Oriented Analysis and Design concepts (using Java and Python):
 https://github.com/xjseabrum/LING5448-OOAD/
