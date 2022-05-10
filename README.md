@@ -16,7 +16,9 @@ I received my undergraduate degree from Boston University in May 2018.  I double
 Currently, I am pursuing my master's degree in Computational Linguistics at the University of Colorado Boulder.  My expected graduation date is May 2023.  The program's site can be found here: 
 
 https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms 
-  
+
+# Programming Languages
+I am most comfortable in Python (either as .py or Jupyter Notebooks) and R.  I am also moderately comfortable in Java.  
 
 # Prior Work Experience
 ## Brandeis
@@ -31,7 +33,7 @@ Before Brandeis, during my undergraduate degree from August 2017 to December 201
 found here:  https://www.luminoso.com/
 
 In short, while they were building their NLP systems, I was tasked with annotation and guiding the team in how they should implement morphological information to make the Japanese sentiment-analysis portions of their system work better.
-  
+
 
 # Links and Navigation
 Repo link to showcasing Object Oriented Analysis and Design concepts (using Java and Python):
