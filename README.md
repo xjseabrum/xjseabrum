@@ -36,14 +36,14 @@ In short, while they were building their NLP systems, I was tasked with annotati
 
 
 # Links and Navigation
-Repo link to showcasing Object Oriented Analysis and Design concepts (using Java and Python):
-https://github.com/xjseabrum/LING5448-OOAD/
-
-Repo link to showcasing application of NLP concepts:
-https://github.com/xjseabrum/nlp-files
-
 Repo link to showcasing my Neural Nets Deep Learning (AI) Final Paper:
 https://github.com/xjseabrum/nndl_final_project
 
 Repo link to showcasing my Final Paper in Computational Models of Discourse:
 https://github.com/xjseabrum/comp_disc_S22_proj
+
+Repo link to showcasing Object Oriented Analysis and Design concepts (using Java and Python):
+https://github.com/xjseabrum/LING5448-OOAD/
+
+Repo link to showcasing application of NLP concepts:
+https://github.com/xjseabrum/nlp-files
