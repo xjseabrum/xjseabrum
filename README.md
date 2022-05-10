@@ -14,7 +14,7 @@ Repo link to showcasing application of NLP concepts:
 https://github.com/xjseabrum/nlp-files
 
 Repo link to showcasing my Neural Nets Deep Learning (AI) Final Paper:
-aa
+https://github.com/xjseabrum/nndl_final_project
 
 Repo link to showcasing my Final Paper in Computational Models of Discourse:
-aa
+https://github.com/xjseabrum/comp_disc_S22_proj
