@@ -8,7 +8,7 @@ If you have any questions or would like to cite any of the reports found on my G
 seabrum.x {{at}} gmail {{dot}} com
 
 # Interests
-Currently I am most interested in how ML and AI can approach problems that are linguistically rooted.  As such, the projects that I have worked on are mainly geared towards analyzing text data from ML and AI (NNDL) approaches.  
+Currently I am most interested in how ML and AI can approach problems that are linguistically rooted.  As such, the projects that I have worked on are mainly geared towards analyzing text data from ML and AI (NNDL) approaches.  However, I am also skilled at using general data science techniques and analyses to approach data and ultimately drive meaning from it.  
 
 # Education
 I received my undergraduate degree from Boston University in May 2018.  I double-majored in Economics and in Japanese Language & Literature.
