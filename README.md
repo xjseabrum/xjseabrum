@@ -15,16 +15,34 @@ seabrum.x {{at}} gmail {{dot}} com
 Currently I am most interested in how ML and AI can approach linguistic problems.  As such, 
 I am 
 
-# Prior Experience
+# Education
+I received my undergraduate degree from Boston University in May 2018.  I double-majored
+in Economics and in Japanese Language & Literature.
+
+Currently, I am pursuing my master's degree in Computational Linguistics at the 
+University of Colorado Boulder.  The program's site can be found here: 
+https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms 
+My expected graduation date is May 2023.  
+
+# Prior Work Experience
 I worked at Brandeis University as part of the AJPP from April 2019 to September 2021 
 as a Data Scientist/Analyst.  More information about that project can be found here:
 https://ajpp.brandeis.edu/
 
 In short, it is an ongoing project that seeks to give accurate, Census-like estimates
-for the Jewish community across the entire United States.  Its purpose is to show that 
-the Jewish community is alive and thriving in the US and to show community leaders where
-they can and should focus efforts to drive better outreach and engagement.
+yearly or every other year for the Jewish community across the entire United States.  
+Its purpose is to show that the Jewish community is alive and thriving in the US and 
+to show community leaders where they can and should focus efforts to drive better 
+outreach and engagement.  
 
+Before Brandeis, during my undergraduate degree from August 2017 to December 2017
+I worked part-time/contractually for Luminoso Technologies.  Their link can be
+found here:  https://www.luminoso.com/
+
+In short, while they were building their NLP systems, I was tasked with annotation
+and guiding the team in how they should implement morphological information to make
+their Japanese sentiment-analysis system work better.
+  
 
 # Links and Navigation
 Repo link to showcasing Object Oriented Analysis and Design concepts (using Java and Python):
