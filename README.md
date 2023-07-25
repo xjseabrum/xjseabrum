@@ -1,5 +1,7 @@
 # Quick Introduction
-Hello! My name is Jay Seabrum (Xajavion Seabrum) and I am currently pursuing my Master's degree at the University of Colorado Boulder. 
+Hello! My name is Jay Seabrum (Xajavion Seabrum) and I am currently working as a Data Scientist at Finch AI.  
+
+I recently got my Master's degree at the University of Colorado Boulder in Computational Linguistics and am currently in Austin, TX.
 
 Here on this GitHub you will find some of the projects that I have done either for class or on my own free time. At the bottom below, you will find links to these projects.  Each of the links will have a README that explains more about the projects contained therein. 
 
@@ -12,15 +14,15 @@ Currently I am most interested in how ML and AI can approach problems that are l
 
 # Education
 I received my undergraduate degree from Boston University in May 2018.  I double-majored in Economics and in Japanese Language & Literature.
-
-Currently, I am pursuing my master's degree in Computational Linguistics at the University of Colorado Boulder.  My expected graduation date is May 2023.  The program's site can be found here: 
-
-https://www.colorado.edu/linguistics/graduate-program/computational-linguistics-clasic-ms 
+I also received my master's degree in Computational Linguistics in May 2023 from the University of Colorado Boulder.
 
 # Programming Languages
-I am most comfortable in Python (either as .py or Jupyter Notebooks) and R.  I am also moderately comfortable in Java.  
+I am most comfortable in Python (either as .py or Jupyter Notebooks) and R.  I am also moderately comfortable in Java, and C++.  Currently I am learning how to code in Rust.  
 
 # Prior Work Experience
+## Finch AI
+I have been working as a Data Scientist (with a focus on NLP and tuning LLMs) at Finch AI.  I have been in this role since April 2023.
+
 ## Brandeis
 I worked at Brandeis University as part of the AJPP from April 2019 to September 2021 as a Data Scientist/Analyst.  More information about that project can be found here:
 
